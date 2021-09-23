@@ -1,3 +1,4 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PostgreSQL, PHP...
+- 
