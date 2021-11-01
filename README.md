@@ -1,4 +1,6 @@
-### Olá 👋
+### Hi! I'm Raquel D'Avila! 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PostgreSQL, PHP...
-- 
+- 🌲🌳 I'm a forest engineer and...
+- 🚀 I'm treading the path of web programming!
+- 💻📚 I’m currently learning HTML, CSS, JavaScript, PostgreSQL, PHP...
+
